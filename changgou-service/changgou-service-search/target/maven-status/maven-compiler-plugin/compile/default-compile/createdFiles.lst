@@ -1,0 +1,6 @@
+com\changgou\SearchApplication.class
+com\changgou\dao\SkuEsMapper.class
+com\changgou\service\SearchResultMapperImpl.class
+com\changgou\service\SkuService.class
+com\changgou\controller\SkuController.class
+com\changgou\service\impl\SkuServiceImpl.class
